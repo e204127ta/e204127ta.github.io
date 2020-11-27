@@ -1,0 +1,17 @@
+h1{
+    color: #ff4499;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color : aqua ;
+}
+p{
+    background-color: aquamarine
+}
+body {
+    background-image : url(../images/01.jpg) ;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-position: right;
+}

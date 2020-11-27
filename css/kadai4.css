@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/09.jpg);
+    background-attachment: fixed;
+    background-position: right;
+}
+h1#midasi{
+    background-color: mintcream;
+    text-align: center;
+}
+h2#dai1{
+    color: darkblue;
+    background-color: lightgreen;
+    text-align: center
+}
+h2#dai2{
+    color: skyblue;
+    background-color: darkblue;
+    text-align: center;
+}
+h1#link{
+    color: crimson;
+    background-color: lightsalmon;
+    text-align: center;
+}
+p.pink:hover{
+    background-color: pink;
+}

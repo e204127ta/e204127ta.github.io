@@ -1,0 +1,19 @@
+h1{
+    color: #66b3ff;
+    background-color: #ccffff;
+    text-align: center
+}
+h2{
+    color: #8866cc;
+    background-color: #ccb3ff;
+    text-align: center
+}
+h3{
+    color: #66cc88
+}
+body {
+    background-image : url(../images/04.jpg) ;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-position: right;
+}
